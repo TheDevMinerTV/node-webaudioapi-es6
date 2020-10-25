@@ -1,6 +1,6 @@
 {
 	"name": "node-webaudioapi-es6",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": {
 		"name": "TheDevMinerTV",
 		"email": "tobigames200@gmail.com"
@@ -16,6 +16,10 @@
 		"underscore": "1.11.0"
 	},
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TheDevMinerTV/node-webaudioapi-es6"
+	},
 	"engines": {
 		"node": ">=0.10"
 	}
